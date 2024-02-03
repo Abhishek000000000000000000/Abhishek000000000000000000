@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.V.R.Abhishek</h1>
 <h3 align="center">👋 Hey there! I'm M.V.R.Abhishek , a passionate Front-end Web Developer on an exciting journey to master the art of Full Stack Web Development at Masai School.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek000000000000000000&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek000000000000000000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek000000000000000000" alt="abhishek000000000000000000" /></a> </p>
 
